@@ -93,7 +93,7 @@ return (
                 <img src="/white.jpg" alt="logo" width={100}/>
             </a>
         </Typography>
-            <Typography variant='h4' sx={{ color: 'white', width: '110%', position: 'fixed', textAlign: 'center' }} >مركز صيانة وايت ويل</Typography>
+            <Typography variant='h5' sx={{ color: 'white', width: '110%', position: 'fixed', textAlign: 'center' }} >مركز صيانة وايت ويل</Typography>
         <IconButton
             aria-label="open drawer"
             edge="end"
