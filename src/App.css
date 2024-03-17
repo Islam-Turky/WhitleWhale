@@ -96,12 +96,13 @@
 #Footer{
   width: 100%;
   text-align: center;
-  height: 40vh;
+  height: 60vh;
   background-color: rgb(0, 183, 255);
   display: flex;
   justify-content: space-evenly;
   align-items: center;
   color: #FFFFFF;
+  padding: 20px ;
 }
 
 #Footer .el{
